@@ -75,9 +75,9 @@ Final prices will be confirmed by mid-February 2025.
 
 Hackathon will have four different categories. Winner will be announced for all of these four categories.
 
-* **Most creative Intranet front page** - Beaufiul design in SharePoint front page with out-of-the-box features like flexible layouts, Editorial Card web part etc.
+* **Most creative Intranet front page** - Beautiful design in SharePoint front page with out-of-the-box features like flexible layouts, Editorial Card web part etc.
 * **Most creative Viva Connections dashboard** - Viva Connection dashboard design for specific company with creative card layouts and features. It can include customizations like card designer, Power Cards and SPFx.
 * **Most creative use of SharePoint Agents** - Demonstration of SharePoint agent use case on the different kinds of materials and source files which can be used for the agents.
 * **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
-All hackathon participants who submit a project will receive a digital badge. In order to recieve the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
+All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
