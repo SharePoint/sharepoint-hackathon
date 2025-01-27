@@ -1,0 +1,60 @@
+name: 'SharePoint Hackathon: Hackathon Submission Form'
+description: "Share your design and solution with us to get a digital badge and potentially win prizes!"
+title: "Project: <short description>"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Submission Name
+      description: Name of your submission
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short description of your submission. What features and technologies you were using?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Technology & Languages
+      description: Check any technologies used for your solution.
+      options:
+        - label: SharePoint
+          required: false
+        - label: SharePoint Agents
+          required: false          
+        - label: Viva Connections / Connections
+          required: false  
+        - label: SharePoint Framework
+          required: false 
+          
+  - type: input
+    id: video
+    attributes:
+      label: Project video
+      description: A short demo video of your project. This should be no longer than 8 minutes.
+    validations:
+      required: true
+  - type: input
+    id: url_repo
+    attributes:
+      label: Project Repository URL
+      description: URL of the GitHub repo with your project if assets are available from GitHub
+    validations:
+      required: false      
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team Members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Badge validation
+      description: In order to receive your badge, please fill out the following form - <a href="aka.ms/SharePointHackathon/Badges">aka.ms/SharePointHackathon/Badges</a>. Every member on the team must submit this form to receive a badge. If you do not submit this form, you will not receive a badge. Please check this box to confirm all team members have submitted the badge distribution form.
+      options:
+        - label: I verify that all of my team members have completed the badge validation form at aka.ms/SharePointHackathon/Badges.
+          required: true
