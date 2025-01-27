@@ -1,14 +1,14 @@
-# SharePoint Hackathon - Building beautiful and engaging experiences for employees with SharePoint
+# SharePoint Hackathon - Building beautiful and engaging experiences with SharePoint
 
 <img width="1599" alt="SharePoint Hackathon Banner" src="media/sharepoint-hackathon-promo.png">
 
-✨ Design, Create and Share! ✨
+✨ **Design, Create and Share!** ✨
 
-We are excited to invite you to a hackathon dedicated to crafting exceptional employee experiences using AI and the latest SharePoint features! 💡
+We are excited to invite you to a **hackathon** dedicated to **crafting exceptional employee experiences using AI and the latest SharePoint features**! 💡
 
-SharePoint is a powerful platform for creating engaging and dynamic experiences for employees. With new UX-focused features and innovative SharePoint Agents, SharePoint is more relevant than ever. Tens of millions of end users are leveraging custom experiences built with the SharePoint Framework (SPFx) each month with custom SharePoint portal experiences..
+SharePoint is a powerful platform for creating **engaging and dynamic experiences for employees**. With new UX-focused features and innovative SharePoint Agents, SharePoint is more relevant than ever. Tens of millions of end users are leveraging custom experiences built with the SharePoint Framework (SPFx) each month with custom SharePoint portal experiences.
 
-This hackathon is open to everyone! Whether you're an end user, designer, architect, or developer, there's a place for you. The SharePoint Hackathon will showcase the diverse possibilities within the SharePoint ecosystem. Submission categories include:
+👋 **This hackathon is open to everyone!** Whether you're an end user, designer, architect, or developer, there's a place for you. The SharePoint Hackathon will showcase the diverse possibilities within the SharePoint ecosystem. Submission categories include:
 
 - Solutions incorporating SharePoint Agents
 - Designs utilizing out-of-the-box features
@@ -17,7 +17,7 @@ This hackathon is open to everyone! Whether you're an end user, designer, archit
 
 If you've created a SharePoint site and tailored it to meet your business needs, you're all set to participate! The possibilities are endless for what you can create... plus, you can submit your hack for a chance to win exciting prizes! 🥳
 
-SharePoint hackathon runs from March 4th to March 17th. Hack submissions are due March 17th, 11:59 PM PST. Join us!
+**SharePoint hackathon runs from March 4th to March 17th**. Hack submissions are due March 17th, 11:59 PM PST. Join us! 🧑‍🤝‍🧑
 
 ## Register
 
