@@ -25,7 +25,7 @@ TBD.
 
 ## Official Rules
 
-Read the [official rules](https://github.com/sharepoint/https://github.com/SharePoint/sharepoint-hackathon/blob/main/OFFICIAL_RULES.md) 📃
+Read the [official rules](https://github.com/SharePoint/sharepoint-hackathon/blob/main/OFFICIAL_RULES.md) 📃
 
 ## Stream Schedule
 
