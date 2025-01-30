@@ -54,7 +54,7 @@ Stream links updated soon. Stream will be hosted at the [Microsoft Community Lea
 
 ## Office Hours
 
-For additional help with your hacks, you can drop by Office Hours. The Offical Office Hours schedule will be posted in mid-February.
+For additional help with your hacks, you can drop by Office Hours. The Official Office Hours schedule will be posted in mid-February.
 
 ## Project Submission
 
@@ -75,15 +75,15 @@ Final prices will be confirmed by mid-February 2025.
 Hackathon will have four different categories. Winner will be announced for all of these four categories.
 
 * **Most creative use of SharePoint Agents** - Demonstration of SharePoint agent use case on the different kinds of materials and source files which can be used for the agents.
-* **Most beautiful Intranet home page** - Beaufiul design in SharePoint front page with out-of-the-box features like flexible layouts, Editorial Card web part etc.
+* **Most beautiful Intranet home page** - Beautiful design in SharePoint with out-of-the-box features like flexible layouts, Editorial Card web part etc.
 * **Most useful Viva Connections dashboard** - Viva Connection dashboard design for specific company with creative card layouts and features. It can include customizations like card designer, Power Cards and SPFx.
 * **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
-All hackathon participants who submit a project will receive a digital badge. In order to recieve the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
+All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
 
 ## Frequently asked questions (FAQ) 🙋‍♂️🙋‍♀️
 
-**Do I need to be a developer for this hackahton?**
+**Do I need to be a developer for this hackathon?**
 
 No. Anyone can create beautiful looking pages in SharePoint or use the SharePoint agents for increasing their productivity. Anyone can submit their work for the competition.
 
@@ -95,7 +95,7 @@ Yes. Anyone can submit to this hackathon. If you are a partners who has created 
 
 There are two important things to do for each submissions:
 
-1. Register (availble soon)
+1. Register (available soon)
 2. Submit an issue with link to the video which demonstrate your submission
 
 **We have a cool SharePoint design in our intranet, can I submit that?**
