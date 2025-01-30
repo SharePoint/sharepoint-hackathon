@@ -79,7 +79,7 @@ Hackathon will have four different categories. Winner will be announced for all 
 * **Most useful Viva Connections dashboard** - Viva Connection dashboard design for specific company with creative card layouts and features. It can include customizations like card designer, Power Cards and SPFx.
 * **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
-All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
+All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by March 17th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
 
 ## Frequently asked questions (FAQ) 🙋‍♂️🙋‍♀️
 
