@@ -21,7 +21,7 @@ If you've created a SharePoint site and tailored it to meet your business needs,
 
 ## Register
 
-TBD.
+Details available soon! 🖊️
 
 ## Official Rules
 
@@ -29,28 +29,28 @@ Read the [official rules](https://github.com/sharepoint/https://github.com/Share
 
 ## Stream Schedule
 
-Stream links updated soon. Stream will be hosted at the [Microsoft Community Learning YouTube channel](https://aka.ms/community/youtube).
+Stream will be hosted at the [Microsoft Community Learning YouTube channel](https://aka.ms/community/youtube).
 
 ### Week 1: March 3rd - 7th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/3, 04:00 PM UTC / 09:00 AM PT    | Kickoff to Innovation: SharePoint Hackathon Launch |
-| 3/5, 04:00 PM UTC / 09:00 AM PT    | Building Beautiful SharePoint Portals: Latest Features in Action |
-| 3/6, 04:00 PM UTC / 09:00 AM PT    | Unlocking Efficiency: SharePoint Agents in Action |
+| 3/3, 04:00 PM UTC / 09:00 AM PT | [Kickoff to Innovation: SharePoint Hackathon Launch](https://www.youtube.com/live/XtpB1bEH5oo) |
+| 3/5, 04:00 PM UTC / 09:00 AM PT | [Building Beautiful SharePoint Portals: Latest Features in Action](https://www.youtube.com/live/0Lf66EUEieE) |
+| 3/6, 04:00 PM UTC / 09:00 AM PT | [Unlocking Efficiency: SharePoint Agents in Action](https://www.youtube.com/live/bQ4wsx-6mms) |
 
 ### Week 2: March 10th-14th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/10, 04:00 PM UTC / 09:00 AM PT    | Transforming Employee Experiences with Stunning Dashboards in Viva Connections |
-| 3/12, 04:00 PM UTC / 09:00 AM PT    | Using SharePoint Framework (SPFx) to elevate SharePoint portal UX |
+| 3/10, 04:00 PM UTC / 09:00 AM PT | [Transforming Employee Experiences with Stunning Dashboards in Viva Connections](https://www.youtube.com/live/xI-V-BG5OCs) |
+| 3/12, 04:00 PM UTC / 09:00 AM PT | [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX](https://www.youtube.com/live/3U-pKN0-ikc) |
 
 ### Announcing winners: March 26th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/26, 04:00 PM UTC / 09:00 AM PT    | Celebrating Creativity: SharePoint Hackathon Awards Ceremony |
+| 3/26, 04:00 PM UTC / 09:00 AM PT | [Celebrating Creativity: SharePoint Hackathon Awards Ceremony](https://www.youtube.com/live/lnO8gsIO2Zk) |
 
 ## Office Hours
 
@@ -78,4 +78,4 @@ Hackathon will have four different categories. Winner will be announced for all 
 - **Most creative use of SharePoint Agents** - Demonstration of SharePoint agent use case on the different kinds of materials and source files which can be used for the agents.
 - **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
-All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
+All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by March 26th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
