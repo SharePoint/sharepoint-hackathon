@@ -19,7 +19,7 @@ Submission categories include:
 
 If you've created a SharePoint site and tailored it to meet your business needs, you're all set to participate! The possibilities are endless for what you can create... plus, you can submit your hack for a chance to win exciting prizes! 🥳
 
-**SharePoint Hackathon runs from March 4th to March 17th**. Hack submissions are due March 17th, 11:59 PM PST. Join us! 🧑‍🤝‍🧑
+**SharePoint Hackathon runs from March 3rd to March 17th**. Hack submissions are due March 17th, 11:59 PM PST. Join us! 🧑‍🤝‍🧑
 
 ## Register
 
