@@ -12,7 +12,7 @@ SharePoint is a powerful platform for creating **engaging and dynamic experience
 
 Submission categories include:
 
-- Solutions incorporating SharePoint Agents
+- Usage scenarios for SharePoint Agents
 - Designs utilizing out-of-the-box features
 - Viva Connections Dashboard experiences
 - Extensible experiences with SPFx
@@ -20,6 +20,8 @@ Submission categories include:
 If you've created a SharePoint site and tailored it to meet your business needs, you're all set to participate! The possibilities are endless for what you can create... plus, you can submit your hack for a chance to win exciting prizes! 🥳
 
 **SharePoint Hackathon runs from March 3rd to March 17th**. Hack submissions are due March 17th, 11:59 PM PST. Join us! 🧑‍🤝‍🧑
+
+See recording of recent [SharePoint 2025 Event](https://aka.ms/SharePointEvent) for insipration on the latest features and capabilities with SharePoint. See you also at [Microsoft 365 Community Conference](https://m365conf.com/) for even more awesome announcements and features ✨
 
 ## Register
 
@@ -88,18 +90,26 @@ All hackathon participants who submit a project will receive a digital badge. To
 
 **Do I need to be a developer for this hackathon?**
 
-No. Anyone can create beautiful looking pages in SharePoint or use the SharePoint agents to increase their productivity. Anyone can submit their work for the competition.
+No. Anyone can **create beautiful looking pages in SharePoint or use the SharePoint agents** to increase their productivity. Anyone can submit their work for the competition and everyone is awarded with a badge to do so.
 
 **We have a product build for/with SharePoint - can we submit?**
 
-Yes. Anyone can submit to this hackathon. If you are a partner who has created an intranet-in-a-box offering, you can also submit your design or agent scenarios for this hackathon.
+Yes. Anyone can submit to this hackathon. If you are a partner who has created an intranet-in-a-box offering, you can also submit your design or agent scenarios for this hackathon. Any submission which contains SPFx customizations would fall on that specific category and we'll take the submission background also into account in the judging.
+
+Notice that we are looking into engaging with our intranet-in-a-box providers more closely after this event to setup specific partner showcase blog posts and interviews. Submit a video and we will definitely will be in touch after the hackathon to share your story.
+
+**Do I need to create something new or can I submit video of what we already have?**
+
+You are NOT expected specifically to create any new designs or code during this hackathon, so if you already have a beaufitul intranet or are using SharePoint Agents, those stories are also welcome.
+
+We want everyone to be able to submit their beaufiful UX designs, SharePoint Agents stories or SPFx experiences for the competition to showcase the art of possible within SharePoint.
 
 **What will be expected from the submissions?**
 
 There are two important things to do for each submissions:
 
-1. Register (available soon)
-1. Submit an issue with link to the video which demonstrates your submission
+1. Register to the hackathon - https://aka.ms/SharePoint/hackathon/register
+1. Submit an issue with link to the video which demonstrates your submission - https://aka.ms/SharePoint/hackathon/submission
 
 **We have a cool SharePoint design on our intranet, can I submit that?**
 
@@ -108,5 +118,7 @@ Yes as long as you have permission from your company or the service owner to do 
 **How should I create the video for submission?**
 
 There are multiple ways to do this. Key is to showcase the design and features you have in your deployment. You can use whatever software you like for recording and then submit the entry to us in a location which can be accessed. This could mean attaching video on the submission entry, video in YouTube (can be unlisted if link works) or by sharing a video with file sharing services, like with OneDrive.
+
+---
 
 Got other questions? - Please use the [Discussions section in the repository](https://github.com/SharePoint/sharepoint-hackathon/discussions). We are here to help and answer all your questions.
