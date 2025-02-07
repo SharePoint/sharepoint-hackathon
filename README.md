@@ -75,7 +75,7 @@ Check out this video for step by step project submission guidance:
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
-Final prices will be confirmed by mid-February 2025.
+Final prizes will be confirmed by mid-February 2025.
 
 Hackathon has four different categories. The winner will be announced for all these four categories.
 
@@ -96,7 +96,7 @@ No. Anyone can **create beautiful looking pages in SharePoint or use the SharePo
 
 Yes. Anyone can submit to this hackathon. If you are a partner who has created an intranet-in-a-box offering, you can also submit your design or agent scenarios for this hackathon. Any submission which contains SPFx customizations would fall on that specific category and we'll take the submission background also into account in the judging.
 
-Notice that we are looking into engaging with our intranet-in-a-box providers more closely after this event to setup specific partner showcase blog posts and interviews. Submit a video and we will definitely will be in touch after the hackathon to share your story.
+Notice that we are looking into engaging with our intranet-in-a-box providers more closely after this event to setup specific partner showcase blog posts and interviews. Submit a video and well definitely will be in touch after the hackathon to share your story.
 
 **Do I need to create something new or can I submit video of what we already have?**
 
