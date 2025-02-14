@@ -86,6 +86,10 @@ Hackathon has four different categories. The winner will be announced for all th
 
 All hackathon participants who submit a project will receive a digital badge. To receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by March 17th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
 
+[<img width="200" alt="SharePoint Hackathon Banner" src="media/sharepoint-hackathon-badge-2025.png">](https://www.credly.com/org/m365pnp/badge/sharepoint-2025-hackathon-microsoft-365-power-platf)
+
+**[SharePoint Hackathon Badge Details](https://www.credly.com/org/m365pnp/badge/sharepoint-2025-hackathon-microsoft-365-power-platf)**
+
 ## Frequently asked questions (FAQ) 🙋‍♂️🙋‍♀️
 
 **Do I need to be a developer for this hackathon?**
