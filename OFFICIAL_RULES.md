@@ -20,7 +20,7 @@ To enter, you must be eighteen (18) years of age or older. If you are eighteen (
 
 The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
 
-- **Teams:** Each Team must be comprised of one (1) Team Leader and one (1) or more Team Members, but no more than 4 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
+- **Teams:** Each Team must be comprised of one (1) Team Leader and optionally one (1) or more Team Members, but no more than 4 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
 - **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of March 3, 2025, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
 - **Team Members:** Each student member of a Team (“Team Member”) must be, as of March 3, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
 
@@ -32,7 +32,7 @@ Employees and directors of Microsoft Corporation and its subsidiaries, affiliate
 
 No Purchase Necessary.
 
-To enter, visit <https://aka.ms/sharepointhackathon> to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team.
+To enter, visit <https://aka.ms/sharepoint/hackathon> to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team.
 
 There is an overall limit of 1 entry per person/team. You can only be a member of one team. Only one person from a team needs to submit the project, with all team member names included. Any attempt by you to obtain more than the stated number of entries by using multiple/different accounts, identities, registrations, logins, or any other methods will void your entries and you may be disqualified. Use of any automated system to participate is prohibited.
 
@@ -57,9 +57,9 @@ Please note the video portion of your entry must be solely your own work, includ
 
 **6. USE OF YOUR ENTRY**
 
-We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Contest and use your entry in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you. You will not receive any compensation or credit for use of your entry, other than what is described in these Official Rules.
+We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Contest and use your entry video in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you. You will not receive any compensation or credit for use of your entry video, other than what is described in these Official Rules.
 By entering you acknowledge that we may have developed or commissioned materials similar or identical to your entry and you waive any claims resulting from any similarities to your entry. Further you understand that we will not restrict work assignments of representatives who have had access to your entry, and you agree that use of information in our representatives’ unaided memories in the development or deployment of our products or services does not create liability for us under this agreement or copyright or trade secret law.
-Your entry may be posted on a public website. We are not responsible for any unauthorized use of your entry by visitors to this website. We are not obligated to use your entry for any purpose, even if it has been selected as a winning entry.
+Your entry video may be posted on a public website. We are not responsible for any unauthorized use of your entry video by visitors to this website. We are not obligated to use your entry video for any purpose, even if it has been selected as a winning entry.
 
 **7. WINNER SELECTION AND NOTIFICATION**
 
@@ -76,7 +76,12 @@ Winners (or the Team Leaders of the winning Teams) will be notified via the cont
 
 **8. PRIZES**
 
-TBD
+* Career coaching and mentoring with in-person meeting with either [Heather Cook](https://www.linkedin.com/in/heathernewman/) or [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - winners can choose who they want to meet. Each cateogry winner will get 4 hours of in-person time which is divided with potential team members.
+* Tickets to the Microsoft 365 Community Conference with an opportunity to present the solution in the conference - *option is subject to certain conditions*
+* Option to demonstrate what you've created in the weekly [Microsoft 365 & Power Platform community call](https://aka.ms/community/calls) for global visibility
+* Top three submissions in each category will be published in Microsoft credited blog post at the [SharePoint blog](https://aka.ms/sp-blog)
+
+Detailed conditions for the Microsoft 365 Community Conference ticket award as follows: [Updated soon].
 
 **9. ODDS**
 
@@ -105,7 +110,7 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **13. WINNERS LIST**
 
-TBD
+Will be published in the [SharePoint blog](https://aka.ms/sp-blog) by end of March 2025.
 
 ## Terms and Conditions
 
