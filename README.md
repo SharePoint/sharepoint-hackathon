@@ -8,6 +8,8 @@ We are excited to invite you to a **hackathon** dedicated to **crafting exceptio
 
 SharePoint is a powerful platform for creating **engaging and dynamic experiences for employees**. With new UX-focused features and innovative SharePoint Agents, SharePoint is more relevant than ever. Tens of millions of end users are leveraging custom experiences built with the SharePoint Framework (SPFx) each month with custom SharePoint portal experiences.
 
+[![Welcome to Hackathon](https://img.youtube.com/vi/Gfi3PkdfLiw/hqdefault.jpg)](https://www.youtube.com/embed/Gfi3PkdfLiw)
+
 👋 **This hackathon is open to everyone!** Whether you're an end user, designer, architect, or developer, there's a place for you. The SharePoint Hackathon will showcase the diverse possibilities within the SharePoint ecosystem. 
 
 Submission categories include:
@@ -60,22 +62,30 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 
 ## Office Hours
 
-For additional help with your hacks, you can drop by Office Hours. The Official Office Hours schedule will be posted in mid-February.
+For additional help with your hacks, you can drop by Office Hours where you'll have at least [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Luise Freese](https://www.linkedin.com/in/luisefreese/) helping with any questions you might have on the hackathon. Office hours are hosted as normal Teams meeting for easy attendance and discussion.
+
+| Day/Time              | Topic                    |
+| --------------------- | ------------------------ |
+| 3/04, 11:00 AM UTC / 03:00 AM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI0MDBlMzYtZTUyNy00YzY4LWI3MWItMjhlNzhlMmM1NWJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+| 3/05, 07:00 PM UTC / 11:00 AM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI4ODZjZmYtYmQ5Yi00Y2E2LWExN2ItZTQyNzQzMTA2NWE4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+| 3/06, 07:00 PM UTC / 11:00 AM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODVhMzJhNTQtMjU4Yi00MWEzLWJmYjktMzgyZGM5ZTYyMjFm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+| 3/07, 11:00 AM UTC / 03:00 AM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWRhODllOGItMzViMC00N2MwLWFiNzctN2RmODdiNjg0Yjhi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+| 3/11, 04:00 PM UTC / 04:00 AM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNlMDgxOWQtZDViMy00MzlkLTkwMjUtMTNmNDMyNTFlNTg2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+| 3/12, 04:00 PM UTC / 12:00 PM PT - 30 min | [Teams join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQwZjgyNDAtNGQyMC00YmY4LTlmMWQtYThlMGUzYjA4NDM5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c7243be1-99a3-4752-ab2a-0cf698cf8236%22%7d) |
+
+Notice that as US moves to daylight savings in early March (9th of March), second week of the hackathon timings can be impacted for you. Check the scheduled based on the UTC time.
 
 ## Project Submission
 
-Submissions are due Monday March 17th, 11:59 PM PST.
+**Submissions are due Monday March 17th, 11:59 PM PST**. Submission should be in video format with potential additional pictures, showing the design or implementation you've created.
+
 Submit your project here in GitHub Issues when it's ready🚀
 **🚀 [Project Submission Form](https://aka.ms/SharePoint/Hackathon/ProjectSubmission)**
 
 Check out this video for step by step project submission guidance:
 **[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
-## Prizes and Categories 🏅
-
-Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
-
-Final prizes will be confirmed by mid-February 2025.
+## Categories and Prizes 🏅
 
 Hackathon has four different categories. The winner will be announced for all these four categories.
 
@@ -90,6 +100,25 @@ All hackathon participants who submit a project will receive a digital badge. To
 
 **[SharePoint Hackathon Badge Details](https://www.credly.com/org/m365pnp/badge/sharepoint-2025-hackathon-microsoft-365-power-platf)**
 
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+
+**Prizes** for the winners include following:
+
+* **Career coaching and mentoring** with in-person meeting with either [Heather Cook](https://www.linkedin.com/in/heathernewman/) or [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - winners can choose who they want to meet. Each cateogry winner will get 4 hours of in-person time which is divided with potential team members.
+* **Tickets to the Microsoft 365 Community Conference** with an opportunity to present the solution in the conference - *option is subject to certain conditions*
+* Option to demonstrate what you've created in the weekly [Microsoft 365 & Power Platform community call](https://aka.ms/community/calls) for global visibility
+* Top three submissions in each category will be published in Microsoft credited blog post at the [SharePoint blog](https://aka.ms/sp-blog)
+
+We will be also acknowleging few special categories from the submitted videos - with a special callout in the award celebration blog post and live stream. These special cateories are following:
+
+* Most Creative Video Presentation ✨
+* Best Video Presenter Voice 🎤
+* Most Enthusiastic Presenter ⚡
+* Most Innovative SharePoint Hack 👩‍💻
+* Most Artistic SharePoint Visualization 🎨
+
+These are great additional opportunities to get acknowledged on your submission 💡
+
 ## Frequently asked questions (FAQ) 🙋‍♂️🙋‍♀️
 
 **Do I need to be a developer for this hackathon?**
@@ -100,7 +129,7 @@ No. Anyone can **create beautiful looking pages in SharePoint or use the SharePo
 
 Yes. Anyone can submit to this hackathon. If you are a partner who has created an intranet-in-a-box offering, you can also submit your design or agent scenarios for this hackathon. Any submission which contains SPFx customizations would fall on that specific category and we'll take the submission background also into account in the judging.
 
-Notice that we are looking into engaging with our intranet-in-a-box providers more closely after this event to setup specific partner showcase blog posts and interviews. Submit a video and well definitely will be in touch after the hackathon to share your story.
+Notice that *we are looking into engaging with our intranet-in-a-box providers more closely after this event* to setup specific partner showcase blog posts and interviews. Submit a video on your solution and well definitely will be in touch after the hackathon to share your story as a seperate partner showcase video and a blog post.
 
 **Do I need to create something new or can I submit video of what we already have?**
 
@@ -122,6 +151,10 @@ Yes as long as you have permission from your company or the service owner to do 
 **How should I create the video for submission?**
 
 There are multiple ways to do this. Key is to showcase the design and features you have in your deployment. You can use whatever software you like for recording and then submit the entry to us in a location which can be accessed. This could mean attaching video on the submission entry, video in YouTube (can be unlisted if link works) or by sharing a video with file sharing services, like with OneDrive.
+
+**How many people can be in a team which is building a submission?**
+
+One submission can be from 1-4 person. You can submit as an individual person or you can join with other community members to build a team with maximum 4 persons in the team.
 
 ---
 
