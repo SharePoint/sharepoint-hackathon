@@ -8,7 +8,7 @@ We are excited to invite you to a **hackathon** dedicated to **crafting exceptio
 
 SharePoint is a powerful platform for creating **engaging and dynamic experiences for employees**. With new UX-focused features and innovative SharePoint Agents, SharePoint is more relevant than ever. Tens of millions of end users are leveraging custom experiences built with the SharePoint Framework (SPFx) each month with custom SharePoint portal experiences.
 
-[![Welcome to Hackathon](https://img.youtube.com/vi/Gfi3PkdfLiw/hqdefault.jpg)](https://www.youtube.com/embed/Gfi3PkdfLiw)
+[![Welcome to Hackathon](https://img.youtube.com/vi/Gfi3PkdfLiw/hqdefault.jpg)](https://www.youtube.com/watch?v=Gfi3PkdfLiw)
 
 👋 **This hackathon is open to everyone!** Whether you're an end user, designer, architect, or developer, there's a place for you. The SharePoint Hackathon will showcase the diverse possibilities within the SharePoint ecosystem. 
 
