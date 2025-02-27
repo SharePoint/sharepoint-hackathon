@@ -62,7 +62,7 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 
 ## Office Hours
 
-For additional help with your hacks, you can drop by Office Hours where you'll have at least [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Luise Freese](https://www.linkedin.com/in/luisefreese/) helping with any questions you might have on the hackathon. Office hours are hosted as normal Teams meeting for easy attendance and discussion.
+For additional help with your planned submission, you can drop by Office Hours where you'll have at least [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Luise Freese](https://www.linkedin.com/in/luisefreese/) helping with any questions you might have on the hackathon or what you are planning to submit. Office hours are hosted as normal Teams meeting for easy attendance and discussion.
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
@@ -94,7 +94,7 @@ Hackathon has four distinct categories. The winner is announced for all these fo
 * **Most useful Viva Connections dashboard** - Viva Connection dashboard design for specific company with creative card layouts and features. It can include customizations like card designer, Power Cards and SPFx.
 * **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
-All hackathon participants who submit a project will receive a digital badge. To receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by March 17th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
+All hackathon participants who submit a video on their experiences will receive a digital badge. To receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/SharePoint/Hackathon/Badges)** by March 17th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form.
 
 [<img width="200" alt="SharePoint Hackathon Banner" src="media/sharepoint-hackathon-badge-2025.png">](https://www.credly.com/org/m365pnp/badge/sharepoint-2025-hackathon-microsoft-365-power-platf)
 
@@ -104,7 +104,7 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 
 **Prizes** for the winners include the following:
 
-* **Career coaching and mentoring** with in-person meeting with either [Heather Cook](https://www.linkedin.com/in/heathernewman/) or [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - winners can choose who they want to meet. Each cateogry winner will get 4 hours of in-person time which is divided between potential team members.
+* **Career coaching and mentoring** with in-person meeting with either [Heather Cook](https://www.linkedin.com/in/heathernewman/) or [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - winners can choose who they want to meet. Each category winner will get 4 hours of in-person time which is divided between potential team members.
 * **Tickets to the Microsoft 365 Community Conference** with an opportunity to present the solution at the conference - *option is subject to certain conditions*
 * Option to demonstrate what you've created in the weekly [Microsoft 365 & Power Platform community call](https://aka.ms/community/calls) for global visibility
 * The top three submissions in each category will be published in Microsoft credited blog post at the [SharePoint blog](https://aka.ms/sp-blog)
