@@ -90,7 +90,7 @@ Check out this video for step by step project submission guidance:
 Hackathon has four distinct categories. The winner is announced for all these four categories.
 
 * **Most creative use of SharePoint Agents** - Demonstration of SharePoint agent use case on the distinct kinds of materials and source files which are used for the agents.
-* **Most beautiful Intranet home page** - Beautiful design in SharePoint with out-of-the-box features like flexible layouts, Editorial Card web part etc.
+* **Most beautiful Intranet home page** - Build beautiful and engaging SharePoint sites with O-O-B features like flex layouts, design ideas, editorial webparts, hero carousels and more.
 * **Most useful Viva Connections dashboard** - Viva Connection dashboard design for specific company with creative card layouts and features. It can include customizations like card designer, Power Cards and SPFx.
 * **Most creative intranet with extensibility (SPFx)** - Custom SharePoint portal experience with SharePoint Framework (SPFx). Extra points on including AI scenario(s).
 
