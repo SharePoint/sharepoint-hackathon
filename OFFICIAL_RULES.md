@@ -1,4 +1,4 @@
-# Official Rules (to be finalized)
+# Official Rules
 
 These are the official rules for SharePoint Hackathon - Spring 2025 (March 3-17, 2025). This information is to be finalized by mid-February.
 
