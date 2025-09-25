@@ -1,6 +1,14 @@
 # SharePoint Hackathon - Building beautiful and engaging experiences with SharePoint
 
-<img width="1599" alt="SharePoint Hackathon Banner" src="media/sharepoint-hackathon-promo.png">
+We are excited to share the SharePoint Hackathon will be back on 2026! We will be sharing more detailed schedule, rules and other attendee information by end of calendar year 2025.
+
+We truly enjoyed this even during 2025 and are looking forward on working with you all again during 2026.
+
+<img width="1599" alt="SharePoint Hackathon Banner" src="media/hackathon-2026-teaser-promo.png">
+
+Before the 2026 setup, you can check the previous Hackathon details from below.
+
+## SharePoint Hackathon 2025 details
 
 ✨ **Design, Create and Share!** ✨
 
