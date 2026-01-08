@@ -1,6 +1,6 @@
 # SharePoint Hackathon - Building beautiful and engaging experiences with SharePoint
 
-We are excited to share the SharePoint Hackathon will be back on 2026! Initial details shared already below and more details on the awards coming soon!
+We are excited to share the SharePoint Hackathon will be back in 2026! Initial details are shared already below and more details on the awards coming soon!
 
 We truly enjoyed this event in 2025 and are looking forward to working with you all again in 2026 🙏🤩
 
@@ -33,7 +33,7 @@ If you've created a SharePoint site and tailored it to meet your business needs,
 
 ## Register
 
-We do not require you to pre-register on the hackathon as such. You can though subscribe for reminders on the upcoming live streams. More details on that soon.
+We do not require you to pre-register on the hackathon as such. You can subscribe for reminders on the upcoming live streams. More details on that soon.
 
 Introduce yourself and get familiar with other attendees on [GitHub Discussions in this repository](https://github.com/SharePoint/sharepoint-hackathon/discussions/2) 🙋‍♂️🙋‍♀️
 
@@ -118,7 +118,7 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 * Final winner prices to be shared in early February 2026 - We are looking to have cool **device based awards** this time  ✨🤩
 * The top three submissions in each category will be published in Microsoft credited blog post at the [SharePoint blog](https://aka.ms/sp-blog)
 
-We will be also acknowledging few special categories from the submitted videos - with a special callout in the award celebration blog post and live stream. These special cateories are following:
+We will be also acknowledging few special categories from the submitted videos - with a special callout in the award celebration blog post and live stream. These special categories are following:
 
 * Most Creative Video Presentation ✨
 * Best Video Presenter Voice 🎤
@@ -142,7 +142,7 @@ Notice that *we are looking into engaging with our SharePoint partner ecosystem*
 
 **Do I need to create something new or can I submit video of what we already have?**
 
-You are NOT expected specifically to create any new designs or code during this hackathon, so if you already have a beautiful intranet or are for example using SharePoint Agents in intersting scenarios, those stories are also welcome.
+You are NOT expected specifically to create any new designs or code during this hackathon, so if you already have a beautiful intranet or are for example using SharePoint Agents in interesting scenarios, those stories are also welcome.
 
 We want everyone to be able to submit their beautiful UX designs, SharePoint Agents stories or SPFx experiences for the competition to showcase the art of possible within SharePoint.
 
@@ -153,7 +153,7 @@ There is only two things to do for each submissions:
 1. Create a video which showcases what you have created
 1. Submit an issue with link to the video which demonstrates your submission - https://aka.ms/SharePoint/hackathon/submission
 
-**We have a cool SharePoint design on our intranet, can I submit that?**
+**We have a cool SharePoint design on our intranet; can I submit that?**
 
 Yes as long as you have permission from your company or the service owner to do that. We are excited to see what kind of use cases you have with SharePoint Agents and what kind of designs our customers and partners have created with SharePoint.
 
@@ -163,11 +163,11 @@ There are multiple ways to do this. Key is to highlight the design and features 
 
 **How many people can be in a team which is building a submission?**
 
-One submission can be from 1-4 people. You can submit as an individual person, or you can join with other community members to build a team with maximum 4 persons in the team.
+One submission can be from 1-4 people. You can submit as an individual person, or you can join with other community members to build a team with maximum 4 people in the team.
 
-**Can one submission be for multiple cateogries?**
+**Can one submission be for multiple categories?**
 
-Yes. When you are submitting the details, you can select the categories which are relevant for your submission. One submission can below to multiple categories. One submission can also win multiple categories, but in that case, only one set of awards are provided for the winnin team.
+Yes. When you are submitting the details, you can select the categories which are relevant for your submission. One submission can below to multiple categories. One submission can also win multiple categories, but in that case, only one set of awards are provided for the winning team.
 
 ---
 
