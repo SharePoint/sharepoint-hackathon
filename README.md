@@ -49,6 +49,7 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
+| 3/2, 04:00 PM UTC / 09:00 AM PT | SharePoint 25 Anniversary celebration - Kickstart for SharePoint Hackathon 2026 |
 | 3/3, 04:00 PM UTC / 09:00 AM PT | Best Design for SharePoint Site: Showcasing the Most Beautiful & Intelligent Portals |
 | 3/4, 04:00 PM UTC / 09:00 AM PT | Pocket-Perfect Productivity: AI-First SharePoint Experiences on Mobile |
 | 3/5, 04:00 PM UTC / 09:00 AM PT | To be announced later |
