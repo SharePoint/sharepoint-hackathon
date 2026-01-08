@@ -13,22 +13,28 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your submission. What features and technologies you were using?
+      description: Provide a short description of your submission. What features and capabilities you were using?
     validations:
       required: true
   - type: checkboxes
     attributes:
-      label: Technology & Languages
-      description: Check any technologies used for your solution.
+      label: Submission Categories
+      description: Check any categories which you are used in your submission.
       options:
-        - label: SharePoint
+        - label: SharePoint site
           required: false
-        - label: SharePoint Agents
-          required: false          
-        - label: Viva Connections / Connections
-          required: false  
-        - label: SharePoint Framework
+        - label: Mobile experience
           required: false 
+        - label: TBD
+          required: false
+        - label: Knowledge Agent
+          required: false
+        - label: SharePoint Agent
+          required: false
+        - label: SharePoint Framework
+          required: false
+        - label: SharePoint Embedded
+          required: false
           
   - type: input
     id: video
@@ -41,7 +47,7 @@ body:
     id: url_repo
     attributes:
       label: Project Repository URL
-      description: URL of the GitHub repo with your project if assets are available from GitHub
+      description: URL of the GitHub repo with your project if assets are available from GitHub (optional)
     validations:
       required: false      
   - type: input
