@@ -1,6 +1,6 @@
 # Official Rules
 
-These are the official rules for SharePoint Hackathon - Spring 2025 (March 3-17, 2025). This information is to be finalized by mid-February.
+These are the official rules for SharePoint Hackathon - Spring 2026 (March 2-16, 2026). This information is to be finalized by mid-February.
 
 ## Official Rules
 
@@ -14,15 +14,15 @@ In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Spon
 
 **3.	ENTRY PERIOD**
 
-The Contest starts at 12:01 a.m. Pacific Time (PT) on March 3, 2025, and ends at 11:59 p.m. PT on March 17, 2025 (“Entry Period”).
+The Contest starts at 12:01 a.m. Pacific Time (PT) on March 3, 2026, and ends at 11:59 p.m. PT on March 16, 2026 (“Entry Period”).
 
 To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
 
 The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
 
 - **Teams:** Each Team must be comprised of one (1) Team Leader and optionally one (1) or more Team Members, but no more than 4 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
-- **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of March 3, 2025, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
-- **Team Members:** Each student member of a Team (“Team Member”) must be, as of March 3, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
+- **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of March 3, 2026, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
+- **Team Members:** Each student member of a Team (“Team Member”) must be, as of March 3, 2026, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
 
 You are fully responsible for (i) the conduct of your Team Members; and (ii) the consequences of any misconduct by your Team Members. By registering a Team for the Contest, you represent and warrant that you have obtained the written consent of each Team Member (as defined below) or, for any Team Member who has not reached the age of majority in their legal place of residence, their parent or guardian, to participate in the Contest.
 
@@ -68,7 +68,7 @@ Pending confirmation of eligibility, potential prize winners will be selected by
 - 20% - Innovation
 - 20% - Real-World Impact
 - 20% - Technical Usability & Solution Quality
-- 40% - Alignment with hackathon category (Best in SharePoint UX, Best in Connections Dashboard, Best in Agents, Best powered by SPFx etc.)
+- 40% - Alignment with hackathon evaluated submission category
 
 Winners will be selected within fourteen (14) business days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding.  If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. If the winner is a Team, the Prize will be awarded to the Team Leader, who will be responsible for distributing it among the rest of the Team Members.
 
@@ -76,12 +76,7 @@ Winners (or the Team Leaders of the winning Teams) will be notified via the cont
 
 **8. PRIZES**
 
-* Career coaching and mentoring with in-person meeting with either [Heather Cook](https://www.linkedin.com/in/heathernewman/) or [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - winners can choose who they want to meet. Each cateogry winner will get 4 hours of in-person time which is divided with potential team members.
-* Tickets to the Microsoft 365 Community Conference with an opportunity to present the solution in the conference - *option is subject to certain conditions*
-* Option to demonstrate what you've created in the weekly [Microsoft 365 & Power Platform community call](https://aka.ms/community/calls) for global visibility
-* Top three submissions in each category will be published in Microsoft credited blog post at the [SharePoint blog](https://aka.ms/sp-blog)
-
-Detailed conditions for the Microsoft 365 Community Conference ticket award as follows: [Updated soon].
+Details on the prizes and awards are provided before the hackathon starts.
 
 **9. ODDS**
 
@@ -110,7 +105,7 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **13. WINNERS LIST**
 
-Will be published in the [SharePoint blog](https://aka.ms/sp-blog) by end of March 2025.
+Hackathon winner list will be published in the [SharePoint blog](https://aka.ms/sp-blog) by end of March 2026.
 
 ## Terms and Conditions
 
