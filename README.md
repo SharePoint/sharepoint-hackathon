@@ -43,22 +43,24 @@ Read the [official rules](https://github.com/SharePoint/sharepoint-hackathon/blo
 
 ## Stream Schedule
 
-Stream will be hosted at the [Microsoft Community Learning YouTube channel](https://aka.ms/community/youtube).
+Stream will be hosted at the [Microsoft Community Learning YouTube channel](https://aka.ms/community/youtube). We will provide updated links to the live streams placeholders as they will be available during early 2026.
 
 ### Week 1: March 2nd - 5th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/3, 04:00 PM UTC / 09:00 AM PT | [Kickoff to Innovation: SharePoint Hackathon Launch](https://www.youtube.com/live/XtpB1bEH5oo) |
-| 3/5, 04:00 PM UTC / 09:00 AM PT | [Building Beautiful SharePoint Portals: Latest Features in Action](https://www.youtube.com/live/0Lf66EUEieE) |
-| 3/6, 04:00 PM UTC / 09:00 AM PT | [Unlocking Efficiency: SharePoint Agents in Action](https://www.youtube.com/live/bQ4wsx-6mms) |
+| 3/3, 04:00 PM UTC / 09:00 AM PT | Best Design for SharePoint Site: Showcasing the Most Beautiful & Intelligent Portals |
+| 3/4, 04:00 PM UTC / 09:00 AM PT | Pocket-Perfect Productivity: AI-First SharePoint Experiences on Mobile |
+| 3/5, 04:00 PM UTC / 09:00 AM PT | To be announced later |
 
 ### Week 2: March 9th - 12th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/10, 04:00 PM UTC / 09:00 AM PT | [Transforming Employee Experiences with Stunning Dashboards in Viva Connections](https://www.youtube.com/live/xI-V-BG5OCs) |
-| 3/12, 04:00 PM UTC / 09:00 AM PT | [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX](https://www.youtube.com/live/3U-pKN0-ikc) |
+| 3/9, 04:00 PM UTC / 09:00 AM PT | From Content Chaos to Clarity: AI-Organized Libraries with Knowledge Agents |
+| 3/10, 04:00 PM UTC / 09:00 AM PT | Boosting Productivity with Custom SharePoint Agents and Copilot |
+| 3/11, 04:00 PM UTC / 09:00 AM PT | Reinventing SharePoint with SPFx, Copilot, and AI |
+| 3/12, 04:00 PM UTC / 09:00 AM PT | Beyond the Site: Building Intelligent Apps with SharePoint Embedded |
 
 ### Announcing winners: March 26th
 
