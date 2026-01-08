@@ -1,6 +1,6 @@
 # SharePoint Hackathon - Building beautiful and engaging experiences with SharePoint
 
-We are excited to share the SharePoint Hackathon will be back on 2026! We will be sharing more detailed schedule, rules and other attendee information by end of calendar year 2025.
+We are excited to share the SharePoint Hackathon will be back on 2026! We will be sharing more detailed schedule, rules and other attendee information in January 2026.
 
 We truly enjoyed this event in 2025 and are looking forward to working with you all again in 2026.
 
