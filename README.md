@@ -4,7 +4,7 @@ We are excited to share the SharePoint Hackathon will be back on 2026! Initial d
 
 We truly enjoyed this event in 2025 and are looking forward to working with you all again in 2026 🙏🤩
 
-<img width="1599" alt="SharePoint 2026 Hackathon" src="media/sharepoint-hackathon-2026.png">
+<img width="1599" alt="SharePoint 2026 Hackathon" src="media/sharepoint-hackathon-2026-initial-promo.png">
 
 ## SharePoint Hackathon 2026 details
 
@@ -70,19 +70,9 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 
 ## Office Hours
 
-For additional help with your planned submission, you can drop by Office Hours where you'll have at least [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Luise Freese](https://www.linkedin.com/in/luisefreese/) helping with any questions you might have on the hackathon or what you are planning to submit. Office hours are hosted as normal Teams meeting for easy attendance and discussion.
+We will be setting up a special [Sharing is caring](http://aka.ms/sharing-is-caring) session(s) focused on the hackathon submission guidance on the SharePoint Hackathon with [Luise Freese](https://www.linkedin.com/in/luisefreese/) and [David Warner](https://www.linkedin.com/in/davidwarnerii/).
 
-We can provide you step by step guidance on registration to GitHub, submission details or any other questions you might have on the Hackathon.
-
-| Day/Time              | Topic                    |
-| --------------------- | ------------------------ |
-| 3/04, 07:00 PM UTC / 11:00 AM PT - 30 min | Join details soon |
-| 3/06, 02:00 PM UTC / 06:00 AM PT - 30 min | Join details soon |
-| 3/09, 11:00 AM UTC / 03:00 AM PT - 30 min | Join details soon |
-| 3/11, 07:00 PM UTC / 12:00 AM PT - 30 min | Join details soon |
-| 3/13, 03:00 PM UTC / 06:00 AM PT - 30 min | Join details soon |
-
-Notice that as US moves to daylight savings in early March (8th of March), second week of the hackathon timings can be impact your time. Check the schedule based on the UTC time.
+If you have any questions or need support - please use the [discussions](https://github.com/SharePoint/sharepoint-hackathon/discussions) in this GitHub repository. Our team is closely following on the discussions there.
 
 ## Project Submission
 
