@@ -63,7 +63,7 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 | 3/11, 04:00 PM UTC / 09:00 AM PT | Reinventing SharePoint with SPFx, Copilot, and AI |
 | 3/12, 04:00 PM UTC / 09:00 AM PT | Beyond the Site: Building Intelligent Apps with SharePoint Embedded |
 
-### Announcing winners: March 26th
+### Announcing winners: March 25th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
