@@ -4,7 +4,7 @@ We are excited to share the SharePoint Hackathon will be back in 2026! Initial d
 
 We truly enjoyed this event in 2025 and are looking forward to working with you all again in 2026 🙏🤩
 
-<img width="1599" alt="SharePoint 2026 Hackathon" src="media/sharepoint-hackathon-2026-initial-promo.png">
+<img width="1599" alt="SharePoint 2026 Hackathon" src="media/sharepoint-hackathon-2026-promo.png">
 
 ## SharePoint Hackathon 2026 details
 
@@ -69,7 +69,7 @@ Stream will be hosted at the [Microsoft Community Learning YouTube channel](http
 | --------------------- | ------------------------ |
 | 3/25, 04:00 PM UTC / 09:00 AM PT | Celebrating Creativity: SharePoint Hackathon 2026 Awards Ceremony |
 
-## Office Hours
+## Office Hours and support
 
 We will be setting up a special [Sharing is caring](http://aka.ms/sharing-is-caring) session(s) focused on the hackathon submission guidance on the SharePoint Hackathon with [Luise Freese](https://www.linkedin.com/in/luisefreese/) and [David Warner](https://www.linkedin.com/in/davidwarnerii/).
 
