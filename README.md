@@ -33,9 +33,9 @@ If you've created a SharePoint site and tailored it to meet your business needs,
 
 ## Register
 
-We do not require you to pre-register on the hackathon as such. You can subscribe for reminders on the upcoming live streams. More details on that soon.
+We do not require you to pre-register on the hackathon as such. You can subscribe for reminders on the upcoming live streams and star this repository for updates.
 
-Introduce yourself and get familiar with other attendees on [GitHub Discussions in this repository](https://github.com/SharePoint/sharepoint-hackathon/discussions/2) 🙋‍♂️🙋‍♀️
+Introduce yourself and get familiar with other attendees on [GitHub Discussions in this repository](https://github.com/SharePoint/sharepoint-hackathon/discussions/113) 🙋‍♀️🙋‍♂️
 
 ## Official Rules
 
