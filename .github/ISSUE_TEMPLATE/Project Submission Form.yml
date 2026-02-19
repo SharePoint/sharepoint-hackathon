@@ -25,11 +25,9 @@ body:
           required: false
         - label: Mobile experience
           required: false 
-        - label: TBD
-          required: false
         - label: Knowledge Agent
           required: false
-        - label: SharePoint Agent
+        - label: Agents and SharePoint
           required: false
         - label: SharePoint Framework
           required: false

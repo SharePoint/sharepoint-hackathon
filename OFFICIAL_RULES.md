@@ -76,7 +76,7 @@ Winners (or the Team Leaders of the winning Teams) will be notified via the cont
 
 **8. PRIZES**
 
-Details on the prizes and awards are provided before the hackathon starts.
+Winning team will be selected for each of the submission category. Each member in the winning team will be awarded a Surface Laptop (Copilot+ PC) which will be shipped to the winner from local distribution center.
 
 **9. ODDS**
 
