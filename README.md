@@ -159,6 +159,11 @@ One submission can be from 1-4 people. You can submit as an individual person, o
 
 Yes. When you are submitting the details, you can select the categories which are relevant for your submission. One submission can belong to multiple categories. One submission can also win multiple categories, but in that case, only one set of awards are provided for the winning team.
 
+**I'd like to get the new SharePoint Home Site features to my tenant - how to enable them?**
+
+These features are exclusively available through the SharePoint hackathon, but they need to be excplictily enabled in your tenant. Please see following video for more details - [
+Experience the New SharePoint Home Site Experience – Exclusive Hackathon Preview](https://www.youtube.com/watch?v=7BabkWGAr8A). Sign up for the public preview by submitting following form - https://aka.ms/SPHomeSitePreviewFeaturesSignup. Features are then enabled within next 24-48 hours in your tenant.
+
 ---
 
 Got other questions? - Please use the [Discussions section in the repository](https://github.com/SharePoint/sharepoint-hackathon/discussions). We are here to help and answer all your questions.
