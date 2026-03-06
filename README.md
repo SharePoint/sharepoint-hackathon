@@ -50,23 +50,23 @@ Live streams will be hosted at the [Microsoft Community Learning YouTube channel
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
 | 3/2, 04:00 PM UTC / 09:00 AM PT | [SharePoint 25 Anniversary celebration - Kickstart for SharePoint Hackathon 2026](https://www.youtube.com/watch?v=yGaxF6nNuAk) |
-| 3/3, 04:00 PM UTC / 09:00 AM PT | [Best Design for SharePoint Site: Showcasing the Most Beautiful & Intelligent Portals](https://www.youtube.com/watch?v=oSbzQ8il8Ts) |
-| 3/4, 04:00 PM UTC / 09:00 AM PT | [Pocket-Perfect Productivity: AI-First SharePoint Experiences on Mobile](https://www.youtube.com/watch?v=o4ighrwEX90) |
+| 3/3, 04:00 PM UTC / 09:00 AM PT | [Best Design for SharePoint Site: Showcasing the Most Beautiful & Intelligent Portals](https://aka.ms/SPat25/Hackathon/S1) |
+| 3/4, 04:00 PM UTC / 09:00 AM PT | [Pocket-Perfect Productivity: AI-First SharePoint Experiences on Mobile](https://aka.ms/SPat25/Hackathon/S2) |
 
 ### Week 2: March 9th - 13th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/9, 04:00 PM UTC / 09:00 AM PT | [From Content Chaos to Clarity: AI-Organized Libraries with Knowledge Agents](https://www.youtube.com/watch?v=uCk_uZvPy6U) |
-| 3/10, 04:00 PM UTC / 09:00 AM PT | [Agents + SharePoint: The Next Generation of Knowledge Experiences](https://www.youtube.com/live/RdBf3R6ntyA) |
-| 3/11, 04:00 PM UTC / 09:00 AM PT | [Reinventing SharePoint with SPFx, Copilot, and AI](https://www.youtube.com/live/MkAaDNJIBBI) |
-| 3/12, 04:00 PM UTC / 09:00 AM PT | [Beyond the Site: Building Intelligent Apps with SharePoint Embedded](https://www.youtube.com/watch?v=7JUh7G8F7R0) |
+| 3/9, 04:00 PM UTC / 09:00 AM PT | [From Content Chaos to Clarity: AI-Organized Libraries with Knowledge Agents](https://aka.ms/SPat25/Hackathon/S3) |
+| 3/10, 04:00 PM UTC / 09:00 AM PT | [Agents + SharePoint: The Next Generation of Knowledge Experiences](https://aka.ms/SPat25/Hackathon/S4) |
+| 3/11, 04:00 PM UTC / 09:00 AM PT | [Reinventing SharePoint with SPFx, Copilot, and AI](https://aka.ms/SPat25/Hackathon/S5) |
+| 3/12, 04:00 PM UTC / 09:00 AM PT | [Beyond the Site: Building Intelligent Apps with SharePoint Embedded](https://aka.ms/SPat25/Hackathon/S6) |
 
 ### Announcing winners: March 25th
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/25, 04:00 PM UTC / 09:00 AM PT | [Celebrating Creativity: SharePoint Hackathon 2026 Awards Ceremony](https://www.youtube.com/watch?v=I5d7qOP-zu4) |
+| 3/25, 04:00 PM UTC / 09:00 AM PT | [Celebrating Creativity: SharePoint Hackathon 2026 Awards Ceremony](https://aka.ms/SPat25/Hackathon/S7) |
 
 ## Office Hours and support
 
