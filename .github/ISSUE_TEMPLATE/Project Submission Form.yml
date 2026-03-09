@@ -55,6 +55,13 @@ body:
       description: Comma-separated list of GitHub users who worked on this project
     validations:
       required: true
+  - type: input
+    id: linkedinteammemberurls
+    attributes:
+      label: Linked In Profiles
+      description: Comma-separated list of LinkedIn profiles users who worked on this project
+    validations:
+      required: false      
   - type: checkboxes
     attributes:
       label: Badge validation
