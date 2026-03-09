@@ -1,65 +1,76 @@
-# Official Rules
+# Official Rules / Terms and Conditions
 
-These are the official rules for SharePoint Hackathon - Spring 2026 (March 2-16, 2026). This information is to be finalized by mid-February.
+These are the official rules for SharePoint Hackathon - Spring 2026 (March 2-16, 2026).
 
-## Official Rules
+## SharePoint Hackathon Terms and Conditions (“Terms”)
 
-**1.	SPONSOR**
+**1. Acceptance of Terms**
 
-These Official Rules (“Rules”) govern the operation of the SharePoint Hackathon Contest (“Contest”). Microsoft Corporation, One Microsoft Way, Redmond, WA, 98052, USA, is the Contest sponsor (“Sponsor”).
+Acceptance of Terms. The SharePoint Hackathon 2026 ("Event") that Microsoft Corporation ("Microsoft") provides to you is subject to the following Terms.  By registering for, attending, or otherwise participating in the Event, you accept and agree to these Terms. 
 
-**2.	DEFINITIONS**
+You must accept these Terms and Conditions to complete your registration to attend and participate at the Event.  Your acceptance of the Terms is binding, perpetual, and irrevocable.  Failure to follow these Terms will result in denial of attendance, cancellation of your registration and removal from the Event without any refund or compensation in addition to any other rights, claims, or remedies Microsoft may have.
 
-In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Sponsor and “you” and “yourself” refers to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to four (4) Contest participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules.
+Microsoft reserves the right to update these Terms at any time without giving notice to you. The most current version of these Terms can be reviewed by clicking on the "Terms and Conditions" link located on the summary page of your completed registration.  In addition to these Terms, you further agree that you will (a) abide by any additional terms or on-site rules for the Event and (b) complete other releases, forms or documents if required by Microsoft for the Event.
 
-**3.	ENTRY PERIOD**
+You acknowledge and agree that Microsoft has the right to refuse admittance, deny, limit or cancel registration, revoke access privileges, or remove any person from the Event at any time in its sole discretion.  Microsoft is not responsible for any damages, whether direct or indirect, refunds or other compensation related to these actions.  You hereby waive any and all related rights, claims, or remedies.  
 
-The Contest starts at 12:01 a.m. Pacific Time (PT) on March 3, 2026, and ends at 11:59 p.m. PT on March 16, 2026 (“Entry Period”).
 
-To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
+**2. DEFINITIONS**
 
-The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
+In these Terms, “Microsoft,” “we,” “our,” and “us” refer to Sponsor of the Event and “you” and “yourself” refers to an Event participant, or the parent/legal guardian of any Event participant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to four (4) Event participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Terms.
 
-- **Teams:** Each Team must be comprised of one (1) Team Leader and optionally one (1) or more Team Members, but no more than 4 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
-- **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of March 3, 2026, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
-- **Team Members:** Each student member of a Team (“Team Member”) must be, as of March 3, 2026, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
+**3. ENTRY PERIOD**
 
-You are fully responsible for (i) the conduct of your Team Members; and (ii) the consequences of any misconduct by your Team Members. By registering a Team for the Contest, you represent and warrant that you have obtained the written consent of each Team Member (as defined below) or, for any Team Member who has not reached the age of majority in their legal place of residence, their parent or guardian, to participate in the Contest.
+The Event starts at 12:01 a.m. Pacific Time (PT) on March 3, 2026, and ends at 11:59 p.m. PT on March 16, 2026 (“Entry Period”).
 
-Employees and directors of Microsoft Corporation and its subsidiaries, affiliates, advertising agencies, and Contest Parties are not eligible, nor are persons involved in the execution or administration of this promotion, or the family members of each above (parents, children, siblings, spouse/domestic partners, or individuals residing in the same household). Void in Cuba, Iran, North Korea, Sudan, Syria, Region of Crimea, Russia, and where otherwise prohibited by law.
+To enter, you must be eighteen (18) years of age or older as of March 3, 2026. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
+
+The Event is a closed promotion open only to individual participants or Teams that meet the following criteria:
+- Teams: Each Team must be comprised of one (1) Team Leader and optionally one (1) or more Team Members, but no more than 4 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Event; we will accept no more than one (1) Entry per Team.
+- Team Leaders: Each Team leader (the “Team Leader”) must be, as of March 3, 2026, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
+- Team Members: Each student member of a Team (“Team Member”) must be, as of March 3, 2026, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
+
+The Team Leader is fully responsible for (i) the conduct of your Team Members; and (ii) the consequences of any misconduct by your Team Members. By registering a Team for the Contest, you represent and warrant that you have obtained the written consent of each Team Member (as defined in these Terms) or, for any Team Member who has not reached the age of majority in their legal place of residence, their parent or guardian, to participate in the Contest.
+
+Microsoft Event Code of Conduct. You affirm that you have read and will abide by Microsoft’s [Event Code of Conduct](https://microsoft.com/en-us/events/codeofconduct).
+
 
 **4. HOW TO ENTER**
 
 No Purchase Necessary.
 
-To enter, visit <https://aka.ms/sharepoint/hackathon> to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team.
+To enter, visit https://aka.ms/sharepoint/hackathon to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team.
 
-There is an overall limit of 1 entry per person/team. You can only be a member of one team. Only one person from a team needs to submit the project, with all team member names included. Any attempt by you to obtain more than the stated number of entries by using multiple/different accounts, identities, registrations, logins, or any other methods will void your entries and you may be disqualified. Use of any automated system to participate is prohibited.
+There is an overall limit of 1 entry per person/team. You can only be a member of one team. Only one person from a team needs to submit the project, with all team member names included. Any attempt by you to obtain more than the stated number of entries by using multiple/different accounts, identities, registrations, logins, or any other methods will void your entries and you may be disqualified. Use of any automated system to participate is prohibited.  As stated in Section 3 Entry Period, a Team Leader Team Leader may lead multiple Teams.  Note that a Team Leader can only receive one (1) prize in the event they have multiple Team wins.
 
 We are not responsible for excess, lost, late, or incomplete entries. If disputed, entries will be deemed submitted by the “authorized account holder” of the email address, social media account, or other method used to enter. The “authorized account holder” is the natural person assigned to an email address by an internet or online service provider, or other organization responsible for assigning email addresses.
 
+Employees and directors of Microsoft Corporation and its subsidiaries, affiliates, advertising agencies, and event parties are not eligible, nor are persons involved in the execution or administration of this promotion, or the family members of each above (parents, children, siblings, spouse/domestic partners, or individuals residing in the same household). Void in Cuba, Iran, North Korea, Sudan, Region of Crimea, Russia, and where otherwise prohibited by law.
 
 **5. ELIGIBLE ENTRY**
 
 To be eligible, an entry must meet the following content/technical requirements:
 
-- Your entry must be your own original work; and
-Please note the video portion of your entry must be solely your own work, including but not limited to, the actual filming, editing, graphic design, etc. of the video.
+- Your entry must be your own original work; and please note the video portion of your entry must be solely your own work, including but not limited to, the actual filming, editing, graphic design, etc. of the video.
 - Your entry cannot have been selected as a winner in any other contest; and
 - You must have obtained all consents, approvals, or licenses required for you to submit your entry; and
-- To the extent that entry requires the submission of user-generated content such as software, photos, videos, music, artwork, essays, etc., entrants warrant that their entry is their original work, has not been copied from others without permission or apparent rights, and does not violate the privacy, intellectual property rights, or other rights of any other person or entity. You may include Microsoft trademarks, logos, and designs, for which Microsoft grants you a limited license to use for the sole purposes of submitting an entry into this Contest; and
+- To the extent that entry requires the submission of user-generated content such as software, photos, videos, music, artwork, essays, etc., entrants warrant that their entry is their original work, has not been copied from others without permission or apparent rights, and does not violate the privacy, intellectual property rights, or other rights of any other person or entity. You may include Microsoft trademarks, logos, and designs, for which Microsoft grants you a limited license to use for the sole purposes of submitting an entry into this Event; and
 - Your entry may NOT contain, as determined by us in our sole and absolute discretion, any content that is obscene or offensive, violent, defamatory, disparaging, or illegal, or that promotes alcohol, illegal drugs, tobacco or a particular political agenda, or that communicates messages that may reflect negatively on the goodwill of Microsoft; and
 - The video portion of your entry must be no more than eight (8) minutes in length; and
 - The video portion of your entry must include the following content:
-1. A demonstration of your entry;
-2. A description of your experience and the technologies used to build your entry;
-3. An explanation of why you chose to create the entry that you did;
+    1. A demonstration of your entry;
+    2. A description of your experience and the technologies used to build your entry;
+    3. An explanation of why you chose to create the entry that you did;
+
 
 **6. USE OF YOUR ENTRY**
 
-We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Contest and use your entry video in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you. You will not receive any compensation or credit for use of your entry video, other than what is described in these Official Rules.
-By entering you acknowledge that we may have developed or commissioned materials similar or identical to your entry and you waive any claims resulting from any similarities to your entry. Further you understand that we will not restrict work assignments of representatives who have had access to your entry, and you agree that use of information in our representatives’ unaided memories in the development or deployment of our products or services does not create liability for us under this agreement or copyright or trade secret law.
-Your entry video may be posted on a public website. We are not responsible for any unauthorized use of your entry video by visitors to this website. We are not obligated to use your entry video for any purpose, even if it has been selected as a winning entry.
+We are not claiming ownership rights to your Submission. However, by submitting an entry, you grant us an irrevocable, royalty-free, worldwide right and license to use, review, assess, test and otherwise analyze your entry and all its content in connection with this Event and use your entry video in any media whatsoever now known or later invented for any non-commercial or commercial purpose, including, but not limited to, the marketing, sale or promotion of Microsoft products or services, without further permission from you.
+
+You will not receive any compensation or credit for use of your entry video, other than what is described in these Terms. By entering you acknowledge that we may have developed or commissioned materials similar or identical to your entry and you waive any claims resulting from any similarities to your entry. Further you understand that we will not restrict work assignments of representatives who have had access to your entry, and you agree that use of information in our representatives’ unaided memories in the development or deployment of our products or services does not create liability for us under this agreement, copyright or trade secret law. Your entry video may be posted on a public website. We are not responsible for any unauthorized use of your entry video by visitors to public websites. We are not obligated to use your entry video for any purpose, even if it has been selected as a winning entry.
+
+You release Microsoft from any claims and causes of action you may have now or in the future based upon defamation, invasion of right of privacy, publicity or personality, copyright or trademark infringement and unfair competition in connection with the Submissions and Microsoft's use of the Submissions and you agree not to institute any legal action based on any of the grounds specific in this section, and you waive all rights to any equitable relief in connection herewith.
+
 
 **7. WINNER SELECTION AND NOTIFICATION**
 
@@ -70,13 +81,14 @@ Pending confirmation of eligibility, potential prize winners will be selected by
 - 20% - Technical Usability & Solution Quality
 - 40% - Alignment with hackathon evaluated submission category
 
-Winners will be selected within fourteen (14) business days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding.  If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. If the winner is a Team, the Prize will be awarded to the Team Leader, who will be responsible for distributing it among the rest of the Team Members.
+Winners will be selected within fourteen (14) business days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding. If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Event Prizes described below. If the winner is a Team, the Prize will be awarded to the Team Leader, who will be responsible for distributing it among the rest of the Team Members.
 
-Winners (or the Team Leaders of the winning Teams) will be notified via the contact information provided during entry no more than seven (7) days following judging with prize claim instructions, including submission deadlines. If a selected winner or Team Leader cannot be contacted, is ineligible, fails to claim a prize or fails to return any forms, the selected winner will forfeit their prize and an alternate winner will be selected time allowing. If you are a potential winner and you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, we may require your parent/legal guardian to sign all required forms on your behalf. Only three (3) alternate winners will be selected, after which unclaimed prizes will remain unawarded.
+Winners (or the Team Leaders of the winning Teams) will be notified via the contact information provided during entry no more than seven (7) days following judging with prize claim instructions, including submission deadlines. If a selected winner or Team Leader cannot be contacted, is ineligible, fails to claim a prize or fails to return any forms, the selected winner will forfeit their prize and an alternate winner will be selected time allowing. If you are a potential winner and you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, we may require your parent/legal guardian to sign all required forms on your behalf.  Winners will have fourteen (14) days to claim the prize after which time, alternate winners will be selected.  Only three (3) alternate winners will be selected, after which unclaimed prizes will remain unawarded.
+
 
 **8. PRIZES**
 
-Winning team will be selected for each of the submission category. Each member in the winning team will be awarded a Surface Laptop (Copilot+ PC) which will be shipped to the winner from local distribution center.
+Each member of the winning team in each category will be eligible to receive a Surface Laptop, Copilot+PC, 13” model shipped to their location by Microsoft.  The color and configuration of said laptop will be determined by the Hackathon management team.  No cash equivalent is offered.  
 
 **9. ODDS**
 
@@ -84,30 +96,29 @@ The odds of winning are based on the number of eligible entries received.
 
 **10. GENERAL CONDITIONS AND RELEASE OF LIABILITY**
 
-To the extent allowed by law, by entering you agree to release and hold harmless Microsoft and its respective parents, partners, subsidiaries, affiliates, employees, and agents from any and all liability or any injury, loss, or damage of any kind arising in connection with this Contest or any prize won.
+To the extent allowed by law, by entering you agree to release and hold harmless Microsoft and its respective parents, partners, subsidiaries, affiliates, employees, and agents from any and all liability or any injury, loss, or damage of any kind arising in connection with this Event or any prize won.
 
-All local laws apply. The decisions of Microsoft are final and binding.
+The decisions of Microsoft are final and binding.
 
-We reserve the right to cancel, change, or suspend this Contest for any reason, including cheating, technology failure, catastrophe, war, or any other unforeseen or unexpected event that affects the integrity of this Contest, whether human or mechanical. If the integrity of the Contest cannot be restored, we may select winners from among all eligible entries received before we had to cancel, change or suspend the Contest.
+We reserve the right to cancel, change, or suspend this Event for any reason, including cheating, technology failure, catastrophe, war, or any other unforeseen or unexpected event that affects the integrity of this Contest, whether human or mechanical. If the integrity of the Event cannot be restored, we may select winners from among all eligible entries received before we had to cancel, change or suspend the Contest.
 
-If you attempt or we have strong reason to believe that you have compromised the integrity or the legitimate operation of this Contest by cheating, hacking, creating a bot or other automated program, or by committing fraud in any way, we may seek damages from you to the full extent of the law and you may be banned from participation in future Microsoft promotions.
+If you attempt or we have reason to believe that you have compromised the integrity or the legitimate operation of this Event by cheating, hacking, creating a bot or other automated program, or by committing fraud in any way, we may seek damages from you to the full extent of the law and you may be banned from participation in future Microsoft promotions and events.
 
 **11. PRIVACY**
 
 Team Leaders will not provide any individual Team Member’s personal data to Microsoft except as explicitly requested by Microsoft, and then only after notifying Team Members that their personal data will be submitted to Microsoft in connection with the Contest. Team Leaders will not include any individual Team Member’s personal data in the information or submissions they provide to Microsoft in connection with the Contest.
 
-Personal data you provide while entering this Contest will be used by Microsoft and/or its agents and prize fulfillers acting on Microsoft’s behalf only for the administration and operation of this Contest and in accordance with the Microsoft Privacy Statement.
-
+Personal data you provide while entering this Event will be used by Microsoft and/or its agents and prize fulfillers acting on Microsoft’s behalf only for the administration and operation of this Event and in accordance with the Microsoft Privacy Statement.
 
 **12. GOVERNING LAW**
 
-This Contest will be governed by the laws of the State of Washington, and you consent to the exclusive jurisdiction and venue of the courts of the State of Washington for any disputes arising out of this Contest.
+This Event will be governed by the laws of the State of Washington, and you consent to the exclusive jurisdiction and venue of the courts of the State of Washington for any disputes arising out of this Contest.
 
 **13. WINNERS LIST**
 
 Hackathon winner list will be published in the [SharePoint blog](https://aka.ms/sp-blog) by end of March 2026.
 
-## Terms and Conditions
+## Miscellaneous Terms and Conditions
 
 In the event of a dispute regarding who submitted an online entry, the entry will be deemed submitted by the authorized account holder of the e-mail address submitted at the time of entry. “Authorized account holder” is defined as the natural person who is assigned to an e-mail address by an Internet access provider, online service provider or other organization that is responsible for assigning e-mail addresses for the domain associated with the submitted e-mail address. A selected entrant may be required to provide Sponsors with proof that he/she is the authorized account holder of the e-mail address associated with the selected entry. Anyone found to be using multiple accounts to enter will be disqualified.
  
