@@ -57,7 +57,7 @@ Live streams will be hosted at the [Microsoft Community Learning YouTube channel
 
 | Day/Time              | Topic                    |
 | --------------------- | ------------------------ |
-| 3/9, 04:00 PM UTC / 09:00 AM PT | [From Content Chaos to Clarity: AI-Organized Libraries with Knowledge Agents](https://aka.ms/SPat25/Hackathon/S3) |
+| 3/9, 04:00 PM UTC / 09:00 AM PT | [From Content Chaos to Clarity: AI-Organized Libraries with AI in SharePoint](https://www.youtube.com/watch?v=uCk_uZvPy6U) |
 | 3/10, 04:00 PM UTC / 09:00 AM PT | [Agents + SharePoint: The Next Generation of Knowledge Experiences](https://aka.ms/SPat25/Hackathon/S4) |
 | 3/11, 04:00 PM UTC / 09:00 AM PT | [Reinventing SharePoint with SPFx, Copilot, and AI](https://aka.ms/SPat25/Hackathon/S5) |
 | 3/12, 04:00 PM UTC / 09:00 AM PT | [Beyond the Site: Building Intelligent Apps with SharePoint Embedded](https://aka.ms/SPat25/Hackathon/S6) |
