@@ -58,7 +58,7 @@ body:
   - type: input
     id: linkedinteammemberurls
     attributes:
-      label: Linked In Profiles
+      label: LinkedIn Profiles
       description: Comma-separated list of LinkedIn profiles users who worked on this project
     validations:
       required: false      
